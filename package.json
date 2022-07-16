@@ -1,0 +1,11 @@
+{
+  "name": "pokemonGameManiana",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Shadowrunner11 <matematicadivina1@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": ">=5.16.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}

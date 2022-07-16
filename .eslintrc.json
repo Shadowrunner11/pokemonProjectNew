@@ -1,0 +1,17 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true
+    },
+    
+    "parserOptions": {
+        "ecmaVersion": "latest",
+        "sourceType": "module"
+    },
+    "rules": {
+        "no-console":"warn",
+        "comma-spacing":"error",
+        "nonblock-statement-body-position": "error",
+        "quotes":"error"
+    }
+}
